@@ -88,7 +88,7 @@
   <tr>
     <td>Environment Type</td>
     <td> </td>
-    <td>An intended purpose for which a hosted ArCADIE system (instance) is to be used.</td>
+    <td>An intended purpose for which a hosted system (instance) is to be used.</td>
     <td><ul><li>Environment Type</li><li>EnvType</li></ul></td>
     <td>
       <ul>
@@ -104,7 +104,7 @@
   <tr>
     <td>Environment Instance</td>
     <td>An instance of an environment type</td>
-    <td>A fully operational incarnation of the ArCADIE system.</td>
+    <td>A fully operational incarnation of the system.</td>
     <td><ul><li>Environment Instance</li><li>Instance</li><li>Environment</li><li>Site</li></ul></td>
     <td>
       <ul>
