@@ -41,6 +41,7 @@ C:.
 
 ## Baseline Folder Script Order
 *NOTE: When employing the custom strategy that uses the `Baseline` folder's files to create the baseline database instance, the order of execution is*
+
 1. Security\Schemas
 2. Tables
 3. Security\Roles
