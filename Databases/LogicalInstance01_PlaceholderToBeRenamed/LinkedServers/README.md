@@ -1,0 +1,1 @@
+Should contain a `*.sql` file for each Linked Server defined for this logical SQL Server Instance. The initial script for a linked server can be scripted from the linked server object in SQL Server Management Studio.

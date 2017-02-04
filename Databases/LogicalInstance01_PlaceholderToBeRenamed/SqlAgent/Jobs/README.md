@@ -1,0 +1,1 @@
+Should contain a `*.sql` file for each SQL Agent job defined under a SQL Agent for this logical SQL Server Instance. The initial script for a job can be created from the job in SQL Server Management Studio.

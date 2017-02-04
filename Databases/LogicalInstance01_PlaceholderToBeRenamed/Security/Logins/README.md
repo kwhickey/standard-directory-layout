@@ -1,0 +1,1 @@
+Should contain a `*.sql` file for each server-level login defined for this logical SQL Server Instance. The initial script for a linked server can be scripted from the login object in SQL Server Management Studio, and then you may want to replace variable data with tokens that can be replaced in an automation workflow using environment variables.
