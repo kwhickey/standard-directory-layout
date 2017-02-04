@@ -1,0 +1,1 @@
+A place to store scripts that are generic and reusable among ANY logical instance of this particular vendor database.
