@@ -1,1 +1,0 @@
-Would contain embedded help documentation that is updated, compiled, and included in the deployments (e.g. RoboHelp source files)
